@@ -1,1 +1,2 @@
-# data-professional-survey-breakdown
+# Data Professional Survey Breakdown
+I successfully designed and developed a comprehensive data visualization dashboard using Power BI. The dataset used in this project is a comprehensive survey among data professionals, with data collected through various platforms such as LinkedIn, Twitter, and other online channels. The survey received an impressive response, with approximately 600 to 700 data professionals providing valuable insights.
